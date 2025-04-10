@@ -1,0 +1,4 @@
+name: boniec-packages
+version: '0.1.5'
+main: Main.DeathPackagePlugin
+api-version: '1.19'

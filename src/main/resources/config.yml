@@ -1,0 +1,10 @@
+death_package:
+  name: "&e&lDEATH PACKAGE"
+  lore:
+    - "&7"
+    - "&7Id: &e%id%"
+    - "&7Player killed: &e%player%"
+    - "&7Date: &e%date%"
+    - "&7"
+    - "&7Click &ePPM + SHIFT&7 to see a preview"
+    - "&7Click &ePPM&7 to claim items"

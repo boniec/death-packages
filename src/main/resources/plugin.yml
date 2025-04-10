@@ -1,0 +1,5 @@
+main: Main.DeathPackagePlugin
+version: 1.0
+api-version: 1.21
+name: DeathPackages
+authors: [ boniec, kacperfv ]

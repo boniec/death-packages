@@ -1,0 +1,6 @@
+Main\DeathPackagePlugin.class
+Utils\Utils.class
+Listener\DeathListener.class
+Listener\InteractListener.class
+Listener\InventoryListener.class
+Managers\DeathPackageManager.class
